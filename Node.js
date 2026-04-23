@@ -1,0 +1,15 @@
+{
+  "name": "crescenzo-construction",
+  "version": "1.0.0",
+  "description": "Crescenzo Construction - Custom Remodeling in Will County, IL",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "tailwindcss": "^3.4.0"
+  }
+}
